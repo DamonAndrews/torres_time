@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.29cd549e.css",
+    "main.js": "/react-gh-pages/static/js/main.e88fbe83.js",
+    "static/media/outdoor_clock.jpg": "/react-gh-pages/static/media/outdoor_clock.2e9dfbc91b84145aef88.jpg",
+    "static/media/Coach.jpg": "/react-gh-pages/static/media/Coach.71382ffd88f520954e21.jpg",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.29cd549e.css.map": "/react-gh-pages/static/css/main.29cd549e.css.map",
+    "main.e88fbe83.js.map": "/react-gh-pages/static/js/main.e88fbe83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cd549e.css",
+    "static/js/main.e88fbe83.js"
+  ]
+}
