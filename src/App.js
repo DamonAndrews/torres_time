@@ -2,7 +2,7 @@ import React from 'react';
 
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Image from 'react-bootstrap/Image';
+
 
 import LandingPage from './components/LandingPage';
 import Header from './components/Header';
@@ -20,8 +20,17 @@ function App() {
             <Routes>
 
             <Route 
-            path = '/'
+            path = '/react-gh-pages'
             exact
+            element ={<LandingPage />}/>
+            <Route 
+            path = '/torres_time/'
+            element ={<LandingPage />}/>
+            <Route 
+            path = '/torres_time'
+            element ={<LandingPage />}/>
+            <Route 
+            path = '/'
             element ={<LandingPage />}/>
             <Route 
             path = '/Timer'

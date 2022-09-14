@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 import Dropdown from 'react-bootstrap/Dropdown';
 import DropdownButton from 'react-bootstrap/DropdownButton';
-import Card from 'react-bootstrap/Card';
+
 
 
 const header = {
@@ -23,7 +23,7 @@ const header = {
     },
     fullDiv:{
       backgroundColor: 'maroon',
-      color: 'black',
+      color: 'white',
       display: 'flex',
       flexDisplay: 'space-between',
       fontWeight: 'bold',

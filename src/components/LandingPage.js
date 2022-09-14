@@ -1,6 +1,6 @@
 import React from 'react';
 import Clock from '../images/outdoor_clock.jpg';
-import Coach from '../images/Coach.jpg';
+
 
 import { Link } from 'react-router-dom';
 
@@ -29,7 +29,7 @@ function IndividualIntervalsExample() {
         />
         <Carousel.Caption>
         <Link to="/Timer"><button type="submit" class="btn btn-lg m-2" style={landingPage.startButton}><b>START WORKOUT</b></button></Link>
-          <h3></h3>
+          {/* <h3></h3> */}
           <p></p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -42,7 +42,7 @@ function IndividualIntervalsExample() {
         />
         <Carousel.Caption>
         <Link to="/Timer"><button type="submit" class="btn btn-lg m-2" style={landingPage.startButton}><b>START WORKOUT</b></button></Link>
-          <h3></h3>
+          {/* <h3></h3> */}
           <p>Pitter Patter</p>
         </Carousel.Caption>
       </Carousel.Item>
